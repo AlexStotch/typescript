@@ -9,6 +9,12 @@
   body {
     margin: 0;
   }
+
+  form {
+    margin: 25px;
+    border: 1px solid #ff0062;
+    padding: 15px;
+  }
   
   label,
   input,
